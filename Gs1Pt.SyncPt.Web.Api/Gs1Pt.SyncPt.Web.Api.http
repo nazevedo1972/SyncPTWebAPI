@@ -1,0 +1,6 @@
+@Gs1Pt.SyncPt.Web.Api_HostAddress = http://localhost:5030
+
+GET {{Gs1Pt.SyncPt.Web.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
